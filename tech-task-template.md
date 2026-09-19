@@ -153,7 +153,8 @@
 - [x] ТЗ можно передавать в реализацию.
 
 **Комментарий заказчика:** «ТЗ СОГЛАСОВАНО»
-**Ссылка на PR с ТЗ:** [https://github.com/AndreiChukh/lesson_1-2_turn-requirements-into-interface_practice/pull/5
+
+**Ссылка на PR с ТЗ:** https://github.com/AndreiChukh/lesson_1-2_turn-requirements-into-interface_practice/pull/5
 
 **Статус:** MERGED
 
